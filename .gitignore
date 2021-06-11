@@ -1,0 +1,16 @@
+# 临时文件
+/temp
+
+# 配置文件
+/configs/*
+!/configs/.env
+!/configs/default.yaml
+
+# vscode配置
+.vscode/*
+
+# debug
+*/__debug_bin
+
+# build
+/build
